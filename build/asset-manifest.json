@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/linnad/static/css/main.532c4685.css",
+    "main.js": "/linnad/static/js/main.6fe112b8.js",
+    "static/js/453.956e50d1.chunk.js": "/linnad/static/js/453.956e50d1.chunk.js",
+    "static/media/evening_in_gendarmenmarkt_by_rikitza_d7mm0zy.jpg": "/linnad/static/media/evening_in_gendarmenmarkt_by_rikitza_d7mm0zy.c6fd7467148a9abc2e28.jpg",
+    "static/media/pariis.png": "/linnad/static/media/pariis.9ac43b2a084cf9989bcb.png",
+    "static/media/london_pictures_iii_by_jenisei_d1z6dkf.jpg": "/linnad/static/media/london_pictures_iii_by_jenisei_d1z6dkf.0f035f43f5319f6bf33a.jpg",
+    "index.html": "/linnad/index.html",
+    "main.532c4685.css.map": "/linnad/static/css/main.532c4685.css.map",
+    "main.6fe112b8.js.map": "/linnad/static/js/main.6fe112b8.js.map",
+    "453.956e50d1.chunk.js.map": "/linnad/static/js/453.956e50d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.532c4685.css",
+    "static/js/main.6fe112b8.js"
+  ]
+}
