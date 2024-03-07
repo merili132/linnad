@@ -2,8 +2,12 @@
     width: 60%;
     margin-left: auto;
     margin-right: auto;
+    display: flex;
 }
 
+.container div {
+    padding: 1rem;
+}
 .linn-img {
     width: 300px;
 }
