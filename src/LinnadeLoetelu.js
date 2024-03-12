@@ -1,8 +1,17 @@
-function LinnadeLoetelu({linnad}) {
-    const linnaNimed = linnad.map((linn) => {
+function LinnadeLoetelu({ linnad,setAktiivneLinn }) {
+    const valiLinn = (linnaIndex) => {
+        console.log('-> linn: ' + linnaIndex)
+        setAktiivneLinn(linnaIndex)
+    }
+    /*
+    function valiLinn() {
+        console.log('-> linn')
+    }*/
+
+    const linnaNimed = linnad.map((linn, index) => {
         return (
-            <li>
-                {linn.nimi}
+            <li key = {index} onClick={()=>valiLinn(index)}>
+                {linn.nimi} - {linn.kylastusi}
             </li>
         )
     })
